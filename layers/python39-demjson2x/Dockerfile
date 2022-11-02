@@ -1,4 +1,4 @@
-FROM aliyunfc/runtime-python3.6:latest
+FROM aliyunfc/runtime-python3.9:latest
 
 RUN pip3 install "setuptools<58.0.0"
 RUN mkdir -p /opt/python
