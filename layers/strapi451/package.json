@@ -1,0 +1,30 @@
+{
+    "name": "neiceban-strapi",
+    "private": true,
+    "version": "0.1.0",
+    "description": "neiceban cms",
+    "scripts": {
+      "start": "strapi start",
+      "develop": "strapi develop",
+      "build": "strapi build",
+      "strapi": "strapi"
+    },
+    "devDependencies": {},
+    "dependencies": {
+      "@strapi/strapi": "4.5.1",
+      "@strapi/plugin-users-permissions": "4.5.1",
+      "@strapi/plugin-i18n": "4.5.1",
+      "better-sqlite3": "7.4.6"
+    },
+    "author": {
+      "name": "A Strapi developer"
+    },
+    "strapi": {
+      "uuid": "8762f822-c761-4015-91f2-eb605f0a7058"
+    },
+    "engines": {
+      "node": ">=14.19.1 <=18.x.x",
+      "npm": ">=6.0.0"
+    },
+    "license": "MIT"
+  }
