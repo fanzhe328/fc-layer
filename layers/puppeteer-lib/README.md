@@ -3,7 +3,7 @@
 
 | Name | ARN | Compatible Runtimes | Latest Version |
 |------|------------|---------------------|----------------|
-| Puppeteer-Lib | `acs:fc:{region}:1940309364339785:layers/Puppeteer-Lib/versions/1` | `custom`</br>`nodejs16`</br>`nodejs14`</br>`nodejs12`</br>`nodejs10`</br>`nodejs8` |  |
+| Puppeteer-Lib | `acs:fc:{region}:1940309364339785:layers/PuppeteerLib/versions/1` | `custom`</br>`nodejs16`</br>`nodejs14`</br>`nodejs12`</br>`nodejs10`</br>`nodejs8` |  |
 
 
 ## 快速开始
